@@ -1,0 +1,16 @@
+[
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/umutincek/Desktop/GitHub-repos/cats-case/pages/login/index.vue",
+    "chunkName": "pages/login/index",
+    "_name": "_7cc99832"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/umutincek/Desktop/GitHub-repos/cats-case/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5a7de54d"
+  }
+]
